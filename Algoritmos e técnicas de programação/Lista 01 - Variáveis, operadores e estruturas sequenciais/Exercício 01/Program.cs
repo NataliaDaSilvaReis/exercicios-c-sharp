@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Cálculo do perímetro da circunferência, dado por P = 2 * Pi * raio (considerando Pi = 3.14).
             const double _pi = 3.14d;
             double _raio, _perimetro;
 
@@ -21,3 +22,4 @@
         }
     }
 }
+
